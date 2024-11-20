@@ -48,7 +48,7 @@ Jika pengguna memilih Keluar ('k'), program mencetak pesan bahwa program telah s
 
 ## Step 7 : Opsi Tidak Valid
 
-[foto](ss/ss8.png)
+[ss](ss/ss8.png)
 
 Jika pengguna memasukkan pilihan yang tidak tersedia dalam menu (selain l, t, atau k), program akan memberikan pesan kesalahan sederhana dan kembali menampilkan menu.
 
