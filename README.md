@@ -77,7 +77,7 @@ Jika Anda memilih opsi K, program akan berhenti tanpa pesan tambahan.
 ### Case 5 : Error Handling (Input Tidak Valid)
 Jika Anda memasukkan pilihan menu yang tidak valid, program akan menampilkan pesan seperti berikut dan kembali ke menu utama:
 
-![foto](ss/ss12)
+![foto](ss/ss12.png)
 
 ### Output :
 Hasil dari output:
