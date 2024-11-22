@@ -84,7 +84,38 @@ Hasil dari output:
 
 ![foto](ss/ss13.png)
 
+# FLOWCHART DAFTAR MULAI
+
+![foto](ss/ss14.png)
+
+## Step 1 :
+Titik mulai sebuah program atau alur.
+
+## Step 2 :
+lalu lakukan inisialisasi dengan menampilkan menu yang tersedia
+
+## Step 3 :
+Inputkan code menu yang ingin dilakukan, setiap code berisi [L]ihat, [T]ambah, [U]bah, [H]apus, [C]ari, [K]eluar.
+
+## Step 4 :
+Dalam kasus ini semua kemgkinan dapat terjadi, kondisi yang diperlukan sesuai apa yang akan diinputkan user.
+Jika [L]ihat, maka user akan di tampilkan sebuah tabel dari daftar nilai, namun jika tabel belum ada isi/kosong maka akan tampil tidak ada data, jika ada maka ditampilkan sebuah data nilai mahasiswa. Setelah tampilkan data maka akan kembali menuju inisialisasi menu.
+Jika [T]ambah, user diminta memasukan sebuah data yang berupa :
+
+*   NIM
+*   Nama
+*   Nilai Tugas
+*   Nilai UTS
+*   Nilai UAS
+
+Lalu User akan diarahkan kembali ke inisialiasi menu.
+Jika [U]bah, sama dengan [L]ihat jika tidak ada data nilai maka akan tampil tidak ada data nilai namun [U]bah kalau ada data nilai user diminta menginputkan Nomor urut yang akan diubah, setelah itu diminta untuk mengisi atau menginputkan data valid yang diubah. Setelah itu user kembali ke inisialisasi menu.
+
+1. Jika [C]ari, user diminta memasukan nama yang dicari, setelah itu maka akan ditampilkan tabel daftar    nilai mahasiswa. Setelah itu kembali ke inisialisasi menu.
+
+2. Jika [H]apus, user akan ditampilkan daftar nilai lalu diminta memasukan sebuah nomor yang ingin dihapus dari daftar. Setelah itu kembalu ke inisialisasi menu.
+
+3. jika [K]eluar, User akan keluar program dan program akan berhenti.
+
 # Kesimpulan
 Kesimpulan dari program ini adalah bahwa ia dirancang sebagai alat sederhana namun efektif untuk mengelola data mahasiswa. Program ini memungkinkan pengguna untuk menambahkan informasi mahasiswa, seperti NIM, nama, nilai tugas, UTS, dan UAS, sekaligus menghitung nilai akhir berdasarkan bobot yang telah ditentukan. Program memberikan kemudahan melalui menu berbasis teks, sehingga pengguna dapat memilih berbagai opsi dengan cepat, seperti menambah data, melihat daftar mahasiswa, atau keluar dari program.
-
-# FLOWCHART
