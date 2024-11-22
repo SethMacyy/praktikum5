@@ -52,5 +52,39 @@ Jika pengguna memilih Keluar ('k'), program mencetak pesan bahwa program telah s
 
 Jika pengguna memasukkan pilihan yang tidak tersedia dalam menu (selain l, t, atau k), program akan memberikan pesan kesalahan sederhana dan kembali menampilkan menu.
 
+## Step 8 : Run Program
+Tahap akhir adalah uji coba code program yang sudah dibuat dengan mencoba berbagai kemungkinan yang ada.
+
+### Case 1 : Menu Utama
+Ketika program pertama kali dijalankan, akan muncul menu seperti ini:
+
+![foto](ss/ss9.png)
+
+### Case 2 : Tambah Data (T)
+Jika Anda memilih opsi T untuk menambahkan data, program akan meminta Anda untuk mengisi informasi berikut:
+
+![foto](ss/ss10.png)
+
+### Case 3 : Lihat Data (L)
+Jika Anda memilih opsi L untuk melihat data yang telah dimasukkan, output yang ditampilkan akan berupa tabel seperti berikut:
+
+![foto](ss/ss11.png)
+
+### Case 4 : Keluar Program (K)
+
+Jika Anda memilih opsi K, program akan berhenti tanpa pesan tambahan.
+
+### Case 5 : Error Handling (Input Tidak Valid)
+Jika Anda memasukkan pilihan menu yang tidak valid, program akan menampilkan pesan seperti berikut dan kembali ke menu utama:
+
+![foto](ss/ss12)
+
+### Output :
+Hasil dari output:
+
+![foto](ss/ss13.png)
+
 # Kesimpulan
 Kesimpulan dari program ini adalah bahwa ia dirancang sebagai alat sederhana namun efektif untuk mengelola data mahasiswa. Program ini memungkinkan pengguna untuk menambahkan informasi mahasiswa, seperti NIM, nama, nilai tugas, UTS, dan UAS, sekaligus menghitung nilai akhir berdasarkan bobot yang telah ditentukan. Program memberikan kemudahan melalui menu berbasis teks, sehingga pengguna dapat memilih berbagai opsi dengan cepat, seperti menambah data, melihat daftar mahasiswa, atau keluar dari program.
+
+# FLOWCHART
